@@ -1,0 +1,1 @@
+execute as @a[predicate=minecraft:this/entity_scores.scores-minecraft.custom.damage_dealt-1..2147483647] run function #minecraft:custom.damage_dealt

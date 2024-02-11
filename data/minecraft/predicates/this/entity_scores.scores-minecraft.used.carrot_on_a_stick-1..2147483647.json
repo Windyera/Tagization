@@ -1,0 +1,10 @@
+{
+    "condition": "minecraft:entity_scores",
+    "entity": "this",
+    "scores": {
+        "minecraft.used.carrot_on_a_stick": {
+            "max": 2147483647.0,
+            "min": 1.0
+        }
+    }
+}

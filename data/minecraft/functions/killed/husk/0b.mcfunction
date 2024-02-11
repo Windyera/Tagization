@@ -1,0 +1,1 @@
+execute run scoreboard players reset @a[predicate=minecraft:this/entity_scores.scores-minecraft.killed.husk-1..2147483647] minecraft.killed.husk

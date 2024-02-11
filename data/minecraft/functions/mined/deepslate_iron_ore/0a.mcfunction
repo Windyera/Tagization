@@ -1,0 +1,1 @@
+execute as @a[predicate=minecraft:this/entity_scores.scores-minecraft.mined.deepslate_iron_ore-1..2147483647] run function #minecraft:mined.deepslate_iron_ore

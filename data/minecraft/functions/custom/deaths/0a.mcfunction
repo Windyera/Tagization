@@ -1,0 +1,1 @@
+execute as @a[predicate=minecraft:this/entity_scores.scores-minecraft.custom.deaths-1..2147483647] run function #minecraft:custom.deaths

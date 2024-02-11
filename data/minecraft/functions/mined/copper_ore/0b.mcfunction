@@ -1,0 +1,1 @@
+execute run scoreboard players reset @a[predicate=minecraft:this/entity_scores.scores-minecraft.mined.copper_ore-1..2147483647] minecraft.mined.copper_ore
